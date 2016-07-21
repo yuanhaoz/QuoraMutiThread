@@ -1,0 +1,9 @@
+多线程爬取GIF图:http://www.haha365.com/gxtp/index_gif_1.htm
+
+多线程概念：
+volatile;
+ThreadPoolExecutor;
+BlockingQueue<String>;
+
+Java读取***.properties文件
+properties函数功能
